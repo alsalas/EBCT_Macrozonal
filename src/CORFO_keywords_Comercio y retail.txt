@@ -1,0 +1,15 @@
+palabra	peso
+Sin	0.4915
+Química	0.2065
+Verde	0.1611
+Green	0.2182
+Chemestry	0.1302
+Materiales	0.3652
+Avanzados	0.3458
+Advanced	0.3388
+Materials	0.3682
+Mass	0.1802
+customization	0.2444
+Manufactura	0.2511
+Avanzada	0.3220
+Manufacturing	0.3102

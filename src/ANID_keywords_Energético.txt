@@ -1,0 +1,10 @@
+palabra	peso
+Materiales	0.4824
+Avanzados	0.4709
+(Advanced	0.4716
+Materials)	0.4883
+Manufactura	0.3648
+Avanzada	0.4496
+Manufacturing)	0.3952
+Sin	0.2268
+tendencia	0.3587

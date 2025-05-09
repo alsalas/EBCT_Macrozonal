@@ -1,0 +1,6 @@
+palabra	peso
+Manufactura	0.5426
+Avanzada	0.5027
+Advanced	0.4817
+Manufacturing	0.5310
+Sin	0.3513

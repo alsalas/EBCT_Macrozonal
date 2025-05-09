@@ -1,0 +1,8 @@
+palabra	peso
+Nanotecnología	0.3564
+Mass	0.2949
+customization	0.3119
+Manufactura	0.4634
+Avanzada	0.4231
+Advanced	0.4081
+Manufacturing	0.4309

@@ -1,0 +1,16 @@
+palabra	peso
+Sin	0.4343
+Green	0.2265
+Technologies	0.2011
+Tecnologías	0.2091
+Verdes	0.1507
+Manufactura	0.1843
+Avanzada	0.2503
+Advanced	0.2691
+Manufacturing	0.2217
+Inteligencia	0.3110
+Artificial	0.3037
+IA	0.1672
+Materiales	0.2795
+Avanzados	0.2519
+Materials	0.2827
